@@ -11,27 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* BSc (Hons)  Computer Science, University of Nottingham, Ningbo China 2021-2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024.6-Recent: System Engineer/Student Researcher
+  * Shanghai Jiao Tong University
+  * Duties includes: Open Harmony Tech Club
+  * Supervisor: Professor Jingyu Gu
+* 2024.6-2024.9: Research Assistant
+  * University of Nottingham, Ningbo China
+  * Duties included: Developing VTE Rehabilitation Management System
+  * Supervisor: Professor Boon Giin Lee
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2024.3-2024.6: Research Assistant
+  * University of Nottingham, Ningbo China
+  * Duties included: Data Collection/Preprocessing
+  * Supervisor: Professor Boon Giin Lee
 Skills
 ======
 * Skill 1
@@ -46,19 +42,19 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
