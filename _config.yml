@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "custom_profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zhikai (Martin) Hu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Year 4 Student Majored in CS"
+  location         : "Ningbo, China"
+  employer         : "University of Nottingham, Ningbo China"
   uri              : # URL
   email            : "none@example.org" 
 
