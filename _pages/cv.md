@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,33 +11,31 @@ redirect_from:
 
 Education
 ======
-* BSc (Hons)  Computer Science, University of Nottingham, Ningbo China 2021-2025
+* BSc (Hons)  Computer Science, University of Nottingham, Ningbo China *2021 - 2025*
+* MS Computer Networks and Telecommunication, Carnegie Mellon University *2025 - Present*
 
 Work experience
 ======
-* 2024.6-Recent: System Engineer/Student Researcher
+<!-- * 2025.5 - Present: Microsoft Research Asia (Beijing) -->
+* *2024.6 - 2024.10*: System Engineer/Student Researcher
   * Shanghai Jiao Tong University
   * Duties includes: Open Harmony Tech Club
   * Supervisor: Professor Jingyu Gu
-* 2024.6-2024.9: Research Assistant
-  * University of Nottingham, Ningbo China
-  * Duties included: Developing VTE Rehabilitation Management System
-  * Supervisor: Professor Boon Giin Lee
 
-* 2024.3-2024.6: Research Assistant
-  * University of Nottingham, Ningbo China
-  * Duties included: Data Collection/Preprocessing
-  * Supervisor: Professor Boon Giin Lee
+
+Research
+======
+* *2025.1 -* Present Carnegie Mellon University, School of Computer Science
+  * Advisor: Professor Justine Sherry, Yiran Lei
+  * Focus: GPU datacenter energy efficiency analysis
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**: C, C++, Python, x86_64 Assembly, Java
+* **Tools & Frameworks**: Git, CUDA, ReactJS, PyTorch
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -53,8 +51,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
+  {% endfor %}</ul> -->
+<!-- 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

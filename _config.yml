@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Zhikai (Martin) Hu"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zhikai (Martin) Hu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://Martin-HZK.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Zhikai (Martin) Hu"
   pronouns         : # example: "she/her"  
-  bio              : "Year 4 Student Majored in CS"
-  location         : "Ningbo, China"
-  employer         : "University of Nottingham, Ningbo China"
+  bio              : "Computer Science student focused on systems and networking."
+  location         : "Pittsburgh, PA, USA"
+  employer         : "Carnegie Mellon University"
   uri              : # URL
-  email            : "scyzh8@nottingham.edu.cn" 
+  email            : "manunitedhzk7@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -57,9 +57,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : martinhu9342
+  instagram        : # Username
   lastfm           : # Username
-  linkedin         : Zhikai (Martin) Hu
+  linkedin         : https://www.linkedin.com/in/zhikaihu
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
